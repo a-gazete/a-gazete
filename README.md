@@ -2,6 +2,8 @@
 
 # A-Gazete
 
+
+- [Kurt Taktiği](https://a-gazete.github.io/kurt-taktigi/)
 - [Ala:6-8'in Bazı Yorumlanmaları Üzerine Bir Yorum](https://a-gazete.github.io/Ala6-8)
 - [What’s the Worst That Can Happen?](https://a-gazete.github.io/howbd)
 - [Türkler ve Mizah](https://a-gazete.github.io/turkler_mizah/)
